@@ -47,4 +47,13 @@ Link for dataset:-https://roboflow.com/universe
     <td><img src="https://github.com/khamkaradinath/Numberplate_detection_using_YOLOv10_and_PaddleOCR/blob/main/image_for_readme/confusion_matrix.png" width="400"></td>
   </tr>
 </table>
+
+<h3>Here it is How Yolov10 detected numberplates</h3>
+  <table>
+  <tr>
+    <td><img src="https://github.com/khamkaradinath/Numberplate_detection_using_YOLOv10_and_PaddleOCR/blob/main/image_for_readme/numbeplatebox.jpeg" width="500"></td>
+  </tr>
+</table>
+
+
   
