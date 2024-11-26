@@ -73,7 +73,7 @@ Leveraging deep learning techniques, including CNNs and recurrent neural network
     <td><img src="https://github.com/khamkaradinath/Numberplate_detection_using_YOLOv10_and_PaddleOCR/blob/main/image_for_readme/ocr_image.webp" width="500"></td>
   </tr>
 </table>
-Documentation for PaddleOCR: [PaddleOCR Documentation](https://blog.roboflow.com/what-is-optical-character-recognition-ocr/#:~:text=Leveraging%20deep%20learning%20techniques%2C%20including,within%20an%20image%20or%20document. "Ultralytics GitHub Repository").
+Documentation for PaddleOCR: [PaddleOCR Documentation](https://blog.roboflow.com/what-is-optical-character-recognition-ocr/#:~:text=Leveraging%20deep%20learning%20techniques%2C%20including,within%20an%20image%20or%20document.).
 
 
 
