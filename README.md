@@ -16,7 +16,7 @@ Link for dataset:-https://roboflow.com/universe
   
   <table>
   <tr>
-    <td><img src="https://github.com/khamkaradinath/Numberplate_detection_using_YOLOv10_and_PaddleOCR/blob/main/image_for_readme/latency.sv" alt="Detection 1" width="400"></td>
+    <td><img src="https://github.com/khamkaradinath/Numberplate_detection_using_YOLOv10_and_PaddleOCR/blob/main/image_for_readme/latency.svg" alt="Detection 1" width="400"></td>
     <td><img src="https://github.com/khamkaradinath/Numberplate_detection_using_YOLOv10_and_PaddleOCR/blob/main/image_for_readme/params.svg" alt="Detection 2" width="400"></td>
   </tr>
 </table>
