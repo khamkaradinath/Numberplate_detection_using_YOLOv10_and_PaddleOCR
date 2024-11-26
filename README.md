@@ -10,8 +10,10 @@ Link for dataset:-https://roboflow.com/universe
 
 <a href="URL_REDIRECT" target="blank"><img align="center" src="https://github.com/khamkaradinath/Numberplate_detection_using_YOLOv10_and_PaddleOCR/blob/main/image_for_readme/Screenshot%202024-11-26%20114434.png" height="300" /></a>
 
-
-
-
 * Model selection
+  #### YOLOv10: Real-Time End-to-End Object Detection
+  Comparisons with others in terms of latency-accuracy (left) and size-accuracy (right) trade-offs.
 
+  <a href="URL_REDIRECT" target="blank"><img align="center" src="https://github.com/khamkaradinath/Numberplate_detection_using_YOLOv10_and_PaddleOCR/blob/main/image_for_readme/latency.svg" height="200" /></a>
+
+  <a href="URL_REDIRECT" target="blank"><img align="center" src="https://github.com/khamkaradinath/Numberplate_detection_using_YOLOv10_and_PaddleOCR/blob/main/image_for_readme/params.svg" height="200" /></a>
