@@ -40,4 +40,11 @@ Link for dataset:-https://roboflow.com/universe
     <td><img src="https://github.com/khamkaradinath/Numberplate_detection_using_YOLOv10_and_PaddleOCR/blob/main/image_for_readme/f1.png" alt="Detection 4" width="300"></td>
   </tr>
 </table>
+
+<h3>confugion Matrix</h3>
+  <table>
+  <tr>
+    <td><img src="https://github.com/khamkaradinath/Numberplate_detection_using_YOLOv10_and_PaddleOCR/blob/main/image_for_readme/confusion_matrix.png" width="400"></td>
+  </tr>
+</table>
   
