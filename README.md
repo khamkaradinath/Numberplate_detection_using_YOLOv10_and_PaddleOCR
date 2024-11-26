@@ -75,6 +75,20 @@ Leveraging deep learning techniques, including CNNs and recurrent neural network
 </table>
 Documentation for PaddleOCR: [PaddleOCR Documentation](https://blog.roboflow.com/what-is-optical-character-recognition-ocr/#:~:text=Leveraging%20deep%20learning%20techniques%2C%20including,within%20an%20image%20or%20document.).
 
+## 3. Data Storage
+
+* JSON: Outputs license plate numbers for each 20-second interval
+* example
+  ```json
+  {
+  "Start Time": "2024-11-25T10:00:00",
+  "End Time": "2024-11-25T10:00:20",
+  "License Plate": ["MH12AB1234", "DL5C6789"]
+}
+
+ * SQLite: A database table (LicensePlates) stores
+     * Start and end times.
+     * Detected license plate text.
 
 
   
