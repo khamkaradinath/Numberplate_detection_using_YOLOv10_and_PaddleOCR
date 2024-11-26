@@ -17,3 +17,24 @@ Link for dataset:-https://roboflow.com/universe
   <a href="URL_REDIRECT" target="blank"><img align="center" src="https://github.com/khamkaradinath/Numberplate_detection_using_YOLOv10_and_PaddleOCR/blob/main/image_for_readme/latency.svg" height="200" /></a>
 
   <a href="URL_REDIRECT" target="blank"><img align="center" src="https://github.com/khamkaradinath/Numberplate_detection_using_YOLOv10_and_PaddleOCR/blob/main/image_for_readme/params.svg" height="200" /></a>
+
+## How It Works
+#### 1.YOLOv10 Model
+* YOLOv10 (You Only Look Once) is used for detecting license plates in each video frame.
+* It provides
+    * Bounding box coordinates for detected plates.
+    * Confidence scores for the detections.
+
+<h3>Sample Detection Results</h3>
+
+<table>
+  <tr>
+    <td><img src="https://github.com/khamkaradinath/Numberplate_detection_using_YOLOv10_and_PaddleOCR/blob/main/image_for_readme/download%20(9).png" alt="Detection 1" width="300"></td>
+    <td><img src="https://github.com/khamkaradinath/Numberplate_detection_using_YOLOv10_and_PaddleOCR/blob/main/image_for_readme/download%20(10).png" alt="Detection 2" width="300"></td>
+  </tr>
+  <tr>
+    <td><img src="https://github.com/khamkaradinath/Numberplate_detection_using_YOLOv10_and_PaddleOCR/blob/main/image_for_readme/download%20(11).png" alt="Detection 3" width="300"></td>
+    <td><img src="https://github.com/khamkaradinath/Numberplate_detection_using_YOLOv10_and_PaddleOCR/blob/main/image_for_readme/f1.png" alt="Detection 4" width="300"></td>
+  </tr>
+</table>
+  
