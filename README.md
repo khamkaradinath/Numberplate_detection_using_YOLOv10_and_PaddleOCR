@@ -89,8 +89,23 @@ Documentation for PaddleOCR: [PaddleOCR Documentation](https://blog.roboflow.com
  * SQLite: A database table (LicensePlates) stores
      * Start and end times.
      * Detected license plate text.
+  
+ 
+## 3.Customization
+You can modify the following in the main.py or Notebook:
+* Detection Interval: Change the 20-second interval for saving outputs.
+* Model Weights: Replace weights/best.pt with a custom YOLOv10 weight file
+* Confidence Thresholds: Adjust the detection confidence (default: 0.45).
 
-
+## 4.Limitations
+ * Environmental Factors: Performance may degrade under poor lighting or weather conditions.
+ * Regional Variations: The model might need fine-tuning for region-specific license plates.
+ 
+## 5. Future Enhancements
+  * Integrate more advanced OCR techniques for improved accuracy.
+  * Add support for real-time video streaming.
+  * Provide multi-language OCR capabilities.
+    
   
 
 
