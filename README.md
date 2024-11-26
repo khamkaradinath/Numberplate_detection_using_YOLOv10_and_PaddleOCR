@@ -58,6 +58,24 @@ Link for dataset:-https://roboflow.com/universe
   </tr>
 </table>
 
+## 2.PaddleOCR
+
+Leveraging deep learning techniques, including CNNs and recurrent neural networks, Paddle OCR excels in accurate text recognition. It comprises two key components: the detector and the extractor. The detector is tasked with pinpointing text within an image or document.
+
+* PaddleOCR takes the bounding box regions as input to extract the text on license plates
+* Handles low-quality images and rotated text.
+* Confidence filtering ensures only high-confidence text is stored.
+
+  
+<h3>workflow image for paddleOCR</h3>
+  <table>
+  <tr>
+    <td><img src="https://github.com/khamkaradinath/Numberplate_detection_using_YOLOv10_and_PaddleOCR/blob/main/image_for_readme/ocr_image.webp" width="500"></td>
+  </tr>
+</table>
+
+  
+
 
 
 
