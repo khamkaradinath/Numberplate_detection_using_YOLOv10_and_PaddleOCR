@@ -84,7 +84,7 @@ Documentation for PaddleOCR: [PaddleOCR Documentation](https://blog.roboflow.com
   "Start Time": "2024-11-25T10:00:00",
   "End Time": "2024-11-25T10:00:20",
   "License Plate": ["MH12AB1234", "DL5C6789"]
-}
+   }
 
  * SQLite: A database table (LicensePlates) stores
      * Start and end times.
